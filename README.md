@@ -210,3 +210,8 @@ The project successfully analyzes Apple’s iPhone impact in India using data an
 The integration of Tableau with Flask and HTML demonstrates how analytics and web technologies can be combined to build a professional business intelligence platform.
 
 This project highlights the importance of data-driven strategies in understanding market performance and business growth.
+
+👩‍💻 Author
+
+Gadekal BinduLahari 
+B.Sc Statistics Student Tableau Data Visualization Project
